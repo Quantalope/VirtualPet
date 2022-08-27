@@ -77,8 +77,8 @@ void draw()
   noStroke();
   ellipse(250,295,195,100);
   rect(186,190,129.5,130);
-  triangle(163,270,190,260,190,190);
-  triangle(337,270,310,260,310,190);
+  triangle(163,270,190,260,190,185);
+  triangle(337,270,310,260,310,185);
   stroke(1);
   fill(#ffffff);
   
