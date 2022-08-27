@@ -1,3 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Hamster</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+<head>
+
+</head>
+<header>
+	<h1 style="color:lavender; size:30px;">Hamster</h1>
+</header>
+
+<body>
+  <p><i>Nom nom nom</i></p>
+</body>
+<footer>
+	
+</footer>
+
+</html>
+
 void setup()
 {
   size(500,500);
